@@ -1,6 +1,6 @@
 ## `select-search` feature
 
-Select search feature using [Choices.js] (https://joshuajohnson.co.uk/Choices/).
+Select search feature using [Choices.js](https://joshuajohnson.co.uk/Choices/).
 
 ### Global dependencies
 
